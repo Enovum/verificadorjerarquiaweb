@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/verificadorjerarquiaweb/static/css/main.cea52305.css",
+    "main.js": "/verificadorjerarquiaweb/static/js/main.9ce472d5.js",
+    "static/js/453.91785ba2.chunk.js": "/verificadorjerarquiaweb/static/js/453.91785ba2.chunk.js",
+    "static/media/logo.svg": "/verificadorjerarquiaweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/verificadorjerarquiaweb/index.html",
+    "main.cea52305.css.map": "/verificadorjerarquiaweb/static/css/main.cea52305.css.map",
+    "main.9ce472d5.js.map": "/verificadorjerarquiaweb/static/js/main.9ce472d5.js.map",
+    "453.91785ba2.chunk.js.map": "/verificadorjerarquiaweb/static/js/453.91785ba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea52305.css",
+    "static/js/main.9ce472d5.js"
+  ]
+}
